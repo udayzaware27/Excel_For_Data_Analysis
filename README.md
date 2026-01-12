@@ -130,7 +130,7 @@ I completed the **Advanced Excel Mastery Certification** from **Skill Course E-L
 ---
 ## 👤 Author
 **Uday Zaware**  
--GitHub: udayzaware27 
--Linkedin: www.linkedin.com/in/udaykumar-zaware27
+- GitHub: udayzaware27 
+- Linkedin: www.linkedin.com/in/udaykumar-zaware27
 
 ---
