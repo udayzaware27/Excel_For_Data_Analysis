@@ -128,8 +128,9 @@ I completed the **Advanced Excel Mastery Certification** from **Skill Course E-L
 (https://www.linkedin.com/posts/udaykumar-zaware27_advancedexcel-dataanalysis-businessproductivity-share-7376675512099905536-Wf2N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEy2ZoEBSv-ZIQ36Bc9SfHRh_iwtxeOTm14)
 
 ---
+
 ## 👤 Author
-**Uday Zaware**  
+**Udaykumar N Zaware**  
 - GitHub: [udayzaware27 ](https://github.com/udayzaware27)
 - Linkedin: www.linkedin.com/in/udaykumar-zaware27
 
